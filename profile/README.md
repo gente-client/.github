@@ -26,4 +26,4 @@ If you have any ideas of how to improve our client and you want to help us... Ev
 
 *- Upload your code and create a pull request.*
 
-We also accept suggestions, bug reports, and memes on Discord.
+We also accept suggestions and bug reports on Discord.
