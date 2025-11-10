@@ -1,6 +1,6 @@
 # 🌍 Gente Client
 
-We are 2 developers who decided to create **Gente Client**, a custom Client designed to improve your Minecraft experience.
+I am a developer who decided to create **Gente Client**, a custom Client designed to improve your Minecraft experience.
 
 We aren't a big group or any else, we just want to give a useful and safe Client to the Minecraft community.
 
@@ -20,10 +20,4 @@ Gente Client was born with the mission of being a lightweight and suitable for e
 
 ## 🤝 **How to contribute**
 
-If you have any ideas of how to improve our client and you want to help us... Everyone is welcome here!
-
-*- Fork the repo you want to improve.*
-
-*- Upload your code and create a pull request.*
-
-We also accept suggestions and bug reports on Discord.
+We accept suggestions and bug reports on Discord.
