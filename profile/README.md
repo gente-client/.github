@@ -6,7 +6,7 @@ We aren't a big group or any else, we just want to give a useful and safe Client
 
 ## 🧭 **Our Purpose**
 
-Gente Client was born with the mission of being a lightweight and suitable for everyone with features that really matter. We want to make it able to play lag-free, with better tools that improve your Minecraft experience, and without wasting your time with configurations that nobody cares.
+Gente Client was born with the mission of being a lightweight and suitable for everyone with features that really matter. We want to make it able to play lag-free, with better tools that improve your Minecraft experience.
 
 🎮 **What do we offer?**
 
